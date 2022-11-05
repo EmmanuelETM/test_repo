@@ -3,4 +3,11 @@
 from colorama import Fore as F
 
 print(F.CYAN + "We like boobs here")
-#jmabeigue
+
+x = 10
+
+
+for i in range(10):
+      x -= 1
+      print(x)
+
